@@ -1,0 +1,5 @@
+C:\Users\Rick\OneDrive - Ecolab\Code\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.exe
+C:\Users\Rick\OneDrive - Ecolab\Code\DotNetVersion\DotNetVersion\bin\Debug\DotNetVersion.pdb
+C:\Users\Rick\OneDrive - Ecolab\Code\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.csproj.CoreCompileInputs.cache
+C:\Users\Rick\OneDrive - Ecolab\Code\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.exe
+C:\Users\Rick\OneDrive - Ecolab\Code\DotNetVersion\DotNetVersion\obj\Debug\DotNetVersion.pdb
